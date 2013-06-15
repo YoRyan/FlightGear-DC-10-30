@@ -35,7 +35,7 @@ Special thanks to:
 ## Other DC-10 projects
 
 Isaias Prestes is also developing (or was developing) a DC-10 for FlightGear.
-http://wiki.flightgear.org/index.php/McDonnell_Douglas_DC-10-30
-http://presteshangar.wikidot.com/mcdonnell-douglas-dc-10-30
+* http://wiki.flightgear.org/index.php/McDonnell_Douglas_DC-10-30
+* http://presteshangar.wikidot.com/mcdonnell-douglas-dc-10-30
 
 My model is superior in every way, shape, or form, and is also part of the official FlightGear proejct.
