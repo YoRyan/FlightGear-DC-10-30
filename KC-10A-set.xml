@@ -6,7 +6,7 @@
 <PropertyList include="DC-10-main.xml">
 
     <sim>
-        <description>McDonnell Douglas DC-10-30CF</description>
+        <description>McDonnell Douglas KC-10A (tanker)</description>
         <flight-model>yasim</flight-model>
         <aero>DC-10-30</aero>
 
