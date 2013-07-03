@@ -8,7 +8,12 @@
     <sim>
 	<author>Ryan Miller (3d), Ryan Miller (FDM)</author>
 	<status>alpha</status>
-	<version>0.0.3</version>
+        <rating>
+            <FDM type="int">2</FDM>
+            <systems type="int">3</systems>
+            <cockpit type="int">3</cockpit>
+            <model type="int">4</model>
+        </rating>
 
 	<model>
 	    <door>
